@@ -5,10 +5,10 @@ from pprint import pprint
 
 linux = {
     'device_type': 'linux',
-    'ip': '1.1.1.1',
-    'username': 'username',
-    'password': 'passwd',
-    'port': 1111,
+    'ip': '192.168.1.120',
+    'username': 'root',
+    'password': 'dvir4210200H',
+    'port': 22,
     'verbose': True
 }
 # Connect to the Linux Server
